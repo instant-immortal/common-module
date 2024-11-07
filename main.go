@@ -1,4 +1,4 @@
-package common_module
+package common
 
 // GetCommonData a method
 func GetCommonData() string {
